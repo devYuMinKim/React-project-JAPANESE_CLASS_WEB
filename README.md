@@ -1,13 +1,15 @@
 # Team-Project
 웹서비스 구성
 - 메인 화면 구성
-  - ![메인]<img width="1270" "alt="메인" src="https://user-images.githubusercontent.com/55650732/175196707-b4d2962f-f7a2-4508-8b65-e09fc03546a3.PNG">
+  - ![메인]<img width="1270" alt="메인" src="https://user-images.githubusercontent.com/55650732/175197290-72b735f9-6c10-4dc5-98ac-d5c86569581d.PNG">
+
 
 - 로그인​
-  - ![로그인]<img width="1270" "alt="로그인" src="https://user-images.githubusercontent.com/55650732/175196736-e8ea0aa3-6634-454f-bf59-57ec653bed18.PNG">
+  - ![로그인]<img width="1270" alt="로그인" src="https://user-images.githubusercontent.com/55650732/175196736-e8ea0aa3-6634-454f-bf59-57ec653bed18.PNG">
 
 - 회원가입
-  - ![회원가입]<img width="1270""회원가입" src="https://user-images.githubusercontent.com/55650732/175196788-97bb0cac-81b9-400b-86cc-a174ae440595.PNG">
+  - ![회원가입]<img width="1270" alt="회원가입" src="https://user-images.githubusercontent.com/55650732/175197347-fa7b5dd3-c16f-46d5-adc8-476159632e00.PNG">
+
 
 
 - 조원 소개​

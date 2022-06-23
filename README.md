@@ -1,24 +1,29 @@
 # Team-Project
 웹서비스 구성
 - 메인 화면 구성
-  - ![메인_1](https://user-images.githubusercontent.com/55650732/174696919-cb4730f8-3221-4812-95d3-149706edf1bf.png)
-
+  - ![메인]<img width="1270" "alt="메인" src="https://user-images.githubusercontent.com/55650732/175196707-b4d2962f-f7a2-4508-8b65-e09fc03546a3.PNG">
 
 - 로그인​
-  - ![로그인](https://user-images.githubusercontent.com/55650732/174696863-ea3c839c-f528-4369-97c7-2eb29001e737.png)
+  - ![로그인]<img width="1270" "alt="로그인" src="https://user-images.githubusercontent.com/55650732/175196736-e8ea0aa3-6634-454f-bf59-57ec653bed18.PNG">
+
+- 회원가입
+  - ![회원가입]<img width="1270""회원가입" src="https://user-images.githubusercontent.com/55650732/175196788-97bb0cac-81b9-400b-86cc-a174ae440595.PNG">
+
 
 - 조원 소개​
-  - ![메인_2](https://user-images.githubusercontent.com/55650732/174696929-9a9afed2-78cb-420f-a2be-8e95defcb326.png)
-
-- 일본현지학기제 프로그램​
-  - ![메인_3](https://user-images.githubusercontent.com/55650732/174696931-2183ee60-74b7-4ceb-8e6c-281c1324e9b7.png)
-
-- 게시판​
-  - ![게시판](https://user-images.githubusercontent.com/55650732/174696895-d888b6ec-8900-4cf8-9d27-7cc6cb102696.png)
+  - ![프로필]<img width="1270" alt="프로필" src="https://user-images.githubusercontent.com/55650732/175196827-29b32446-599f-4908-9911-25230ab77aad.PNG">
 
 - 캘린더​
-  - ![메인_4](https://user-images.githubusercontent.com/55650732/174696938-f947aeef-180b-48b4-81f8-5f3cd37af46e.png)
-  - ![달력](https://user-images.githubusercontent.com/55650732/174696888-e740fcd1-9998-462a-8be2-eed1d4098987.png)
+  - ![캘린더]<img width="1270" alt="캘린더" src="https://user-images.githubusercontent.com/55650732/175196919-ae984887-0abd-470b-8676-fadaf36b9b72.PNG">
+
+- 게시판​
+  - ![게시글 목록]<img width="1270" alt="게시글 목록" src="https://user-images.githubusercontent.com/55650732/175196866-a37b8b48-53a7-4a52-9832-2bb81ee91379.PNG">
+  - ![게시글]<img width="1270" alt="게시글" src="https://user-images.githubusercontent.com/55650732/175196894-b422cf95-068f-401b-bc99-f1099fd522a6.PNG">
+
+- 앨범​
+  - ![앨범 목록]<img width="1270" alt="앨범 목록" src="https://user-images.githubusercontent.com/55650732/175197002-e995d6aa-cdea-462e-b7ee-447707cd0bee.PNG">
+  - ![앨범]<img width="1270" alt="앨범" src="https://user-images.githubusercontent.com/55650732/175197022-18d656d8-0c66-4514-b724-ce0808fb837d.PNG">
+
 
 - 챗봇​
   - ![챗봇](https://user-images.githubusercontent.com/55650732/174696880-bf2b1822-07ce-4cf0-b692-fb63b12ac364.png)

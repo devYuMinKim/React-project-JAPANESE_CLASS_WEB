@@ -1,5 +1,6 @@
 # Team-Project
 웹서비스 구성
+We used ![React](https://img.shields.io/badge/-React-222222?style=for-the-badge&logo=react) and ![NodeJS](https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white)
 - 메인 화면 구성
   - ![메인]<img width="1270" alt="메인" src="https://user-images.githubusercontent.com/55650732/175197290-72b735f9-6c10-4dc5-98ac-d5c86569581d.PNG">
 
